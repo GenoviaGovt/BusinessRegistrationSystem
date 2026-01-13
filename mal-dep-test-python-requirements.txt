@@ -1,4 +1,0 @@
-# Test python file to trigger Alpha diff block rules
-# Removed the offending malware reference
-# Added another line which is OK
-
